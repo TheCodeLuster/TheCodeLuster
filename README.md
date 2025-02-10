@@ -1,6 +1,10 @@
+<h1 align="center">Hi 👋, I'm Martin</h1>
+<h3 align="center">A passionate Software Engineer developer from Ukraine</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on my Portfolio<br><br>🌱 I’m currently learning Django, PostgreSQL, WebSockets, CI/CD<br><br>📫 How to reach me Mfesenko2003@gmail.com
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-fes) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19803864) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xoxolandreich) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LustForCode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mfesenko2003@gmail.com) 
