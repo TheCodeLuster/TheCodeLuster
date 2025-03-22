@@ -1,5 +1,6 @@
+# Me IRL fr
 <p align="center">
-  <img alt="coding" width="650" style="margin-bottom: 1px;" src="./1.png">
+  <img alt="coding" width="650" style="margin-bottom: 1px;" src="./me_irl.gif">
 </p>
 
 # 💫 About Me:
